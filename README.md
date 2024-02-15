@@ -41,7 +41,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/1d6c83edf0a12409a9ab6.jpg">
+  <img src="https://te.legra.ph/file/4ad3d7080a0f81b34526b.jpg">
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
