@@ -106,15 +106,6 @@ Press `Ctrl+b` and then `d`
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align="center">
-    ─「 🧪 ɢᴇᴛ sᴛʀɪɴɢ sᴇssɪᴏɴ ] 」─
-</h3>
-
-<p align="center">  
-<a href="https://replit.com/@dashezup/generate-pyrogram-session-string"><img src="https://img.shields.io/badge/Generate%20On%20Repl-darkred?style=for-the-badge&logo=appveyor" width="200""/></a>
-</p>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### `Copy Pasters` : You Can Copy This But Must Give Credits To Me...
 
