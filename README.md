@@ -60,7 +60,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Noob-Mukesh/MukeshRobot/blob/main/AdisaX/config.py)
+- Get your [Necessary Variables](https://github.com/Noob-Mukesh/stkeditz/blob/main/AdisaX/config.py)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -68,13 +68,13 @@
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/Noob-Mukesh/MukeshRobot && cd MukeshRobot`
+`git clone https://github.com/stkeditz/AdisaX && cd AdisaX`
 - Install/Upgrade setuptools by :
 `pip3 install --upgrade pip setuptools`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in config by :
-`vi MukeshRobot/config.py`
+`vi AdisaX/config.py`
 
 Press `I` on the keyboard for editing config
 
