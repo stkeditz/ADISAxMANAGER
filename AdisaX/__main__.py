@@ -94,7 +94,7 @@ PM_START_TEXT = """
      {}
 ╰═💜══════════╯
 
-🤍 ᴀᴅɪsᴀ ʟᴏᴠᴇ ʏᴏᴜ sᴏ ᴍᴜᴄʜ ❤️
+🤍 ɪ ʟᴏᴠᴇ ᴍᴇ sᴏ ᴍᴜᴄʜ ❤️
 
 тнιѕ вσт σηℓу ƒσя мαηαgємєηт😊
 
@@ -239,7 +239,7 @@ def start(update: Update, context: CallbackContext):
             
             x=update.effective_message.reply_sticker(
                 "CAACAgUAAx0CbEz78AACyV5lzgrO4o_a-PpMMfPJoCn6U5opWQACygQAAtO0KFfg7a16LQhyFx4E")
-            x.delete()
+        #    x.delete()
             usr = update.effective_user
             lol = update.effective_message.reply_text(
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
@@ -251,7 +251,7 @@ def start(update: Update, context: CallbackContext):
             time.sleep(0.3)
             lol.edit_text("💜sᴘʀᴇᴀᴅɪɴɢ ʟᴏᴠᴇ...💛 ")
             time.sleep(0.4)
-            lol.delete()
+          #  lol.delete()
             
             update.effective_message.reply_photo(START_IMG,PM_START_TEXT.format(escape_markdown(first_name), BOT_NAME,sql.num_users(),sql.num_chats()),
                 reply_markup=InlineKeyboardMarkup(buttons),
@@ -1067,13 +1067,19 @@ def main():
                 f"@{SUPPORT_CHAT}",
                 photo=f"{START_IMG}",
                 caption=f"""
-💞ㅤ{BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ
+💞{BOT_NAME} ɪs ᴢɪɴᴅᴀ ʙᴀʙᴇs
+
 ━━━━━━━━━━━━━
+
 **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{y()}`
 **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ:** `{telever}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{tlhver}`
 **ᴩʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ:** `{pyrover}`
-**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ [ᴀᴅɪsᴀ](https://t.me/dil_sagar_121)**
+
+●───────────●───────────⌔⌔⌔
+**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ [ᴅɪʟ](https://t.me/dil_sagar_121)**
+●───────────●───────────⌔⌔⌔
+
 ━━━━━━━━━━━━━
 """,reply_markup=x,
                 parse_mode=ParseMode.MARKDOWN,
